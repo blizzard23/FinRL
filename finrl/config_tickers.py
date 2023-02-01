@@ -3,18 +3,15 @@ from __future__ import annotations
 SINGLE_TICKER = ["AAPL"]
 
 MY_TICKER = [
-    "NEE",
-    "TSLA",
-    "UL",
-    "DNNGY",
     "FSLR",
     "HAIN",
-    "DPSGY",
-    "SAP",
+    "NEE",
     "NVO",
-    "SYK",
-    "CLPBY",
+    "SAP",
     "SEDG",
+    "SYK",
+    "TSLA",
+    "UL", 
 ]
 
 # Dow 30 constituents in 2021/10
