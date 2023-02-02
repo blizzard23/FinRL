@@ -11,7 +11,10 @@ MY_TICKER = [
     "SEDG",
     "SYK",
     "TSLA",
-    "UL", 
+    "UL",
+    "PLUG",
+    "UNFI",
+    "LI",
 ]
 
 # Dow 30 constituents in 2021/10
