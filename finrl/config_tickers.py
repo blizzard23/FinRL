@@ -15,6 +15,9 @@ MY_TICKER = [
     "PLUG",
     "UNFI",
     "LI",
+    "BLDP",
+    "ANDE",
+    "AMTX",
 ]
 
 # Dow 30 constituents in 2021/10
