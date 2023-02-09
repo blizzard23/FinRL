@@ -3,16 +3,16 @@ from __future__ import annotations
 SINGLE_TICKER = ["AAPL"]
 
 CRYPTO_TICKER = [
-"TRX“,
-"ETH“,
-"BTC“,
-"BCH“,
-"SOL“,
-"LTC“,
-"AVAX“,
-"GRT“,
-"ALGO“,
-"NEAR“,
+    "TRX/USD“,
+    "ETH“,
+    "BTC“,
+    "BCH“,
+    "SOL“,
+    "LTC“,
+    "AVAX“,
+    "GRT“,
+    "ALGO“,
+    "NEAR“,
 ]
 
 MY_TICKER = [
