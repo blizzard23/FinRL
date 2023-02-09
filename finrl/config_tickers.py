@@ -4,14 +4,9 @@ SINGLE_TICKER = ["AAPL"]
 
 CRYPTO_TICKER = [
     "TRX",
-    "ETH",
-    "BTC",
     "BCH",
     "SOL",
     "LTC",
-    "AVAX",
-    "GRT",
-    "ALGO",
     "NEAR",
 ]
 
