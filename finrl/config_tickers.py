@@ -3,7 +3,7 @@ from __future__ import annotations
 SINGLE_TICKER = ["AAPL"]
 
 CRYPTO_TICKER = [
-"TRX“,
+"TRX/USD“,
 "ETH/USD“,
 "BTC/USD“,
 "BCH/USD“,
