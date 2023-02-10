@@ -26,7 +26,6 @@ MY_TICKER = [
     "BLDP",
     "ANDE",
     "AMTX",
-    "ADHI",
     "UNVR",
     "ENPH",
     "WY",
