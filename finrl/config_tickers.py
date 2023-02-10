@@ -26,6 +26,13 @@ MY_TICKER = [
     "BLDP",
     "ANDE",
     "AMTX",
+    "ADHI",
+    "UNVR",
+    "ENPH",
+    "WY",
+    "CLH",
+    "ORA",
+    "RSG",
 ]
 
 # Dow 30 constituents in 2021/10
