@@ -28,6 +28,7 @@ MY_TICKER = [
     "SGML",
     "MSFT",
     "SONY",
+    "NVDA",
     
 ]
 
