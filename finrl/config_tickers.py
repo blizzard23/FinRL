@@ -28,8 +28,7 @@ MY_TICKER = [
     "SGML",
     "MSFT",
     "SONY",
-    "NVDA",
-    
+    "NVDA", 
 ]
 
 # Dow 30 constituents in 2021/10
