@@ -25,10 +25,10 @@ MY_TICKER = [
     "LI",
     "BLDP",
     "ANDE",
-    "ALDVF",
     "SGML",
-    "ABRMF",
-    "PMETF",
+    "MSFT",
+    "SONY",
+    
 ]
 
 # Dow 30 constituents in 2021/10
