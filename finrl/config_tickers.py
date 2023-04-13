@@ -25,13 +25,10 @@ MY_TICKER = [
     "LI",
     "BLDP",
     "ANDE",
-    "AMTX",
-    "UNVR",
-    "ENPH",
-    "WY",
-    "CLH",
-    "ORA",
-    "RSG",
+    "ALDVF",
+    "SGML",
+    "ABRMF",
+    "PMETF",
 ]
 
 # Dow 30 constituents in 2021/10
