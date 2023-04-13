@@ -29,6 +29,8 @@ MY_TICKER = [
     "MSFT",
     "SONY",
     "NVDA", 
+    "FIX",
+    "IR",
 ]
 
 # Dow 30 constituents in 2021/10
